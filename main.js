@@ -72,3 +72,5 @@ function atualizaEstatistica(peca){
     })
 
 }
+
+const cores = [ 'Amarelo.png', 'Azul.png', 'Branco.png', 'Preta.png','Rosa.png',"Vermelho.png"];
